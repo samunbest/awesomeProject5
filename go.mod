@@ -3,6 +3,7 @@ module awesomeProject5
 go 1.17
 
 require (
+	github.com/asim/go-micro/plugins/config/source/consul/v3 v3.7.0
 	github.com/asim/go-micro/plugins/registry/consul/v3 v3.7.0
 	github.com/asim/go-micro/plugins/server/http/v3 v3.7.0
 	github.com/asim/go-micro/v3 v3.7.0

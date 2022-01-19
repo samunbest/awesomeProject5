@@ -70,6 +70,8 @@ github.com/armon/go-radix v0.0.0-20180808171621-7fddfc383310/go.mod h1:ufUuZ+zHj
 github.com/armon/go-radix v1.0.0/go.mod h1:ufUuZ+zHj4x4TnLV4JWEpy2hxWSpsRywHrMgIH9cCH8=
 github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5 h1:0CwZNZbxp69SHPdPJAN/hZIm0C4OItdklCFmMRWYpio=
 github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5/go.mod h1:wHh0iHkYZB8zMSxRWpUBQtwG5a7fFgvEO+odwuTv2gs=
+github.com/asim/go-micro/plugins/config/source/consul/v3 v3.7.0 h1:tCeJUNWynAVkAjcNDt0BEEoRt0Q+nnS4WF55RPZQXOQ=
+github.com/asim/go-micro/plugins/config/source/consul/v3 v3.7.0/go.mod h1:wUT7aPyxs7CphPaFeVEVEAsiyEsz6U2Athz4CE4vRGM=
 github.com/asim/go-micro/plugins/registry/consul/v3 v3.7.0 h1:1w2pWNUbzeyClqRIox7xv7BpyLRJpNiytG2zIeDiXvk=
 github.com/asim/go-micro/plugins/registry/consul/v3 v3.7.0/go.mod h1:qNMQpe5Rjw5Ax501q3B2xMUvc+MgFzvbPmkiVF+tHwI=
 github.com/asim/go-micro/plugins/registry/memory/v3 v3.0.0-20210630062103-c13bb07171bc h1:tDva/ON5dAKeND5j+CSR/wr22280KdPZjOzZxUcWFL8=
